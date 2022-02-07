@@ -11,4 +11,4 @@ Second Step:
   - Go to package.json and add this line below
     - "proxy": "http://localhost:5000",
 Third Step:
-  - Run npm run "npm start"
+  - Run "npm start"
